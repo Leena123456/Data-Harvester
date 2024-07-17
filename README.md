@@ -13,17 +13,20 @@ The data harvester script automates web data extraction by querying Google based
 - Ensure you have Python installed. Install required packages:
 - pip install requests-html
 
-![Home page](https://postimg.cc/Lqx14gJZ][img]https://i.postimg.cc/Lqx14gJZ/Screenshot-2024-07-17-121319.png[/img][/url)
-
-![Home page](url=https://postimg.cc/47nhY4c2][img]https://i.postimg.cc/47nhY4c2/Screenshot-2024-07-17-121420.png[/img][/url)
-
-
-
 # Usage
 - Run the Script:
 - Enter Query: Provide the search query and number of URLs to extract.
 - Enter No. Of Urls To Scrape :Provide how many links you need
 - Link gets displayed (press ctrl+click on link to open the Data)
+
+![Home page](https://i.postimg.cc/Lqx14gJZ/Screenshot-2024-07-17-121319.png)
+
+![Home page](https://i.postimg.cc/47nhY4c2/Screenshot-2024-07-17-121420.png)
+
+![Home page](https://i.postimg.cc/BLyPHWcS/Screenshot-2024-07-17-121447.png)
+
+![Home page](https://i.postimg.cc/qgh30R4z/Screenshot-2024-07-17-121634.png)
+
 
 
 # Languages
